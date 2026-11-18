@@ -246,7 +246,7 @@ The LLM teacher-annotation portion of Notebook 2 requires a Google Gemini API ke
 ## Team
 
 **Team KIA (KIAGJ)**  
-MSDS 565 — Natural Language Processing
+MSDS 565 — Predictive Modeling
 
 ---
 
