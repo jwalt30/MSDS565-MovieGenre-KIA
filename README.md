@@ -2,8 +2,8 @@
 
 **Course:** MSDS 565  
 **Project:** Project 3 — Movie Genre Classification  
-**Team:** KIA (KIAGJ)  
-**Repository:** `MSDS565-MovieGenre-KIA`
+**Team:** KIAGJ
+**Repository:** `MSDS565-MovieGenre-KIAGJ`
 
 ## Project Overview
 
