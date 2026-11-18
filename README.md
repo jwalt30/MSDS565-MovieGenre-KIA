@@ -44,8 +44,6 @@ A minimum-vote filter of **`numVotes >= 100`** is applied consistently in the mo
 
 The selected target genres are **Crime, Action, and Comedy**. Each genre is modeled as an independent yes/no classification task, allowing a movie to receive more than one positive genre prediction.
 
-**Data note:** The CSV is not included in this repository. Obtain the course/project dataset separately and place it where the notebooks can locate it. The modeling notebook checks the notebook directory, repository root, an adjacent `msds565_data/` directory, and the directory containing the repository. If the data is stored elsewhere, set the `MSDS565_DATA` environment variable to the directory containing `mpst_imdb_movies.csv`.
-
 ## Methodology and Workflow
 
 ### 1. Exploratory Data Analysis (EDA)
